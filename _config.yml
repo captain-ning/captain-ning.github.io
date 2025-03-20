@@ -5,7 +5,7 @@
 # Site
 title: XiYu Ning
 subtitle: '甯熙煜的博客'
-description: '关于C++算法及题目'
+description: ''
 keywords: Lovers
 author: 甯熙煜
 language: zh-CN
@@ -103,4 +103,4 @@ theme: cactus-white
 deploy:
   type: git
   repo: git@github.com:captain-ning/captain-ning.github.io
-  branch: main
+  branch: master
